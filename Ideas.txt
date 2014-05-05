@@ -11,55 +11,137 @@ Contents:
 5. Bosses
 
 1. NAME----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Late For Work
-Running Late
-Don't Be Late
-
-You can tell me any other ideas you have.
+- Late For Work
+- Running Late -- This one. 
+- Don't Be Late
 
 2. GOAL----------------------------------------------------------------------------------------------------------------------------------------------------------------
-The goal of the game is to run from your home to work, as fast as possible.  If you get hurt, your players briefcase may open, and you will lose papaers.  Once you have lost all of the papers, you will lose the briefcase.  You get bonus points if your briefcase is undamaged, or still have papers.  Once you get to work, you get a paycheck that you can use to buy upgrades.
+The goal of the game is to run from your home to work, as fast as possible.  If you get hurt, your player's briefcase may open, and you will lose papaers.  Once you 
+
+have lost all of the papers, you will lose the briefcase.  You get bonus points if your briefcase is undamaged, or still have papers.  Once you get to work, you get a 
+
+paycheck that you can use to buy upgrades.
+
+- The goal of the game is to run from your home to work (over the course of several levels and worlds). Each player has a briefcase or similar sort of item. If you hit 
+
+something over the course of the level, you drop this item. If you complete the level without dropping the briefcase, you get a bonus. You get points based on how 
+
+quickly you do the level, and how many obstacles you hit. There will be coins throughout the level that you can collect, that you can spend towards "gadgets" (make it 
+
+somewhat to do things, coin magnet, etc.), or towards new characters with different levels, powerups, etc. Levels bring you closer to the boss, not "payment".
+
 
 3. GAMEPLAY------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 a. Controls
 
 Arrow keys/WASD - Up, down, left, right *MAY HAVE NO L/R*
-Space Bar - Hurtle obstacle/Swing
+- Compatible with W/S or Up/Down. W jumps, S slides. The longer you hold W, the longer you jump. The longer you hold D, the longer you slide. 
+
+Space Bar - Hurdle obstacle/Swing
+- Nothing. 
+
 Left/Right Shift (Depending on controls) - Use powerup
+- Sure.
+
 P - Pause menu
-M - Mute/Unmute music
+- Pause or Escape
+
+M - Mute/Unmute music.
+- Can also be done in pause menu. 
 
 b. Story Mode
 
 LEVEL 1 - THE COUNTRY
-Your character is out in the country.  Farms are in the background.  You have the same job, just on a much smalled scale.  *YOU CAN SEE MORE ABOUT JOB SELECTION IN SECTION 5*  There are very few cars (might be tractors or pickup trucks), and very few fences to hurtle.  Once you've earned enough points, you fight your first boss.
+Your character is out in the country.  Farms are in the background.  You have the same job, just on a much smalled scale.  *YOU CAN SEE MORE ABOUT JOB SELECTION IN 
+
+SECTION 5*  There are very few cars (might be tractors or pickup trucks), and very few fences to hurtle.  Once you've earned enough points, you fight your first boss.
+- I think there should be a certain amount of levels per "world", then you face a "boss" (person in the area). You must pass this person down, then get the off the 
+
+screen (out of range) to beat them. 
+	- Boss for this area: Farmer Joe, or something. 
+		- Rides on a tractor and throws bails of hay at you.
+		- If you get close to him he'll stick out his pitchfork, which you need to jump over. 
+
 LEVEL 2 - SMALL CITY
-Your character is in a larger city, but still pretty small.  The background has houses here and there (more common that farmland), but still pretty seperated.  Your business is slightly bigger, and you get a better paycheck each morning.  Maybe being later/losing more files matters more.  There are more cars, mostly pickups.  Also more fences to hurtle, and some pedestrians.  *PEDESTRIANS DON'T GET IN YOUR WAY, JUST BLOCK THE VIEW*  Maybe some light poles to swing on.  You would eventually fight the second boss.
+- More of a town, then. 
+
+Your character is in a larger city, but still pretty small.  The background has houses here and there (more common than farmland), but still pretty seperated.  Your 
+
+business is slightly bigger, and you get a better paycheck each morning.  Maybe being later/losing more files matters more.  There are more cars, mostly pickups.  Also 
+
+more fences to hurtle, and some pedestrians.  *PEDESTRIANS DON'T GET IN YOUR WAY, JUST BLOCK THE VIEW*  Maybe some light poles to swing on.  You would eventually fight 
+
+the second boss.
+- I don't really like the "leveling up" as an employee idea. I think it would be more fun just to try to run from the country to the city trying to get to work on 
+
+time. Less rural than the farm, i.e. little town houses and city courts, trees, but still not urban. 
+	- Boss: Sheriff. 
+		- Drives an old-style police car and has dogs go after you. 
+		- He also throws donuts and coffee at you, and has a gun, but it's bullets are very slow. 
+
 LEVEL 3 - MEDIUM CITY
-Your character is in a fairly big city, but still not too big.  In the background, houses appear to be in a neighborhood style.  There are much more pedestrians, and fairly periodic cars.  There may be buses every once and a while.  You get a bigger paycheck.  There are now more poles to swing on.  You will eventually fight the third boss.
+- Suburban Neighborhood. 
+
+Your character is in a fairly big city, but still not too big.  In the background, houses appear to be in a neighborhood style.  There are many more pedestrians, and 
+
+fairly periodic cars.  There may be buses every once and a while.  You get a bigger paycheck.  There are now more poles to swing on.  You will eventually fight the 
+
+third boss.
+- In a neighborhood. 3 different (or so) styles of houses, cars and kids are more common as well as cars. Still, I don't like the idea of paychecks.
+	- Boss: Soccer Mom.
+		- Drives a mini-van or SUV and sicks her freakishly in-shape kids at you. They will throw balls at you or something, but eventually run past you. 
+
 LEVEL 4 - BIG CITY
-Your character is in a very big city now.  There are tons of cars and people, and way more telephone poles.  At least once a level there are traffic jams.  There are buses periodically.  You get a much bigger paycheck.  You eventually fight the fourth boss.
+- Urban Development. 
+
+Your character is in a very big city now.  There are tons of cars and people, and way more telephone poles.  At least once a level there are traffic jams.  There are 
+
+buses periodically.  You get a much bigger paycheck.  You eventually fight the fourth boss.
+- There are bikers now, which can run into you. I don't like the idea of traffic jams. Cars are very frequent, yes, and buses (you have to slide under those).
+	- Boss: Hipster.
+		- Rides a bicycle to reduce carbon emissions. Throws coffee, books, and records at you. 
+
 LEVEL 5 - NEW YORK
-Your character is in New York.  The background is pretty much only apartment buildings and high rises.  The cars are almost always in a traffic jam.  There are subways and such that you can duck in to, etc.
+- Downtown area. 
+
+Your character is in New York.  The background is pretty much only apartment buildings and high rises.  The cars are almost always in a traffic jam.  There are subways 
+
+and such that you can duck in to, etc.
+- Background is as you described, no subways (too complicated). 
+	- Boss: CEO.
+		- Rides in a limo., Sends lawyers after you. Laywer's will chase you for a little while, but aren't as fast as you. 
+		- Shoots champagne at you. 
 
 c. Free Run
 
-You just see how far you can run.  Maybe collect items or something, idk.  Still in developement.
+You just see how far you can run.  Maybe collect items or something, idk.  Still in developement.\
+- Sure. 
 
 4. POWERUPS------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Each character has a specific special abiliity.  Here's what I have so far.
 
 Journalist - Camera car
+- Has a trench coat, briefcase, etc. 
+
 Construction Worker - bulldozer / Ride jackhammer
+- Jackhammer. 
+- Wears an orange jacket, has a traffic sign. 
+
 Miner - Steam engine / Mine cart
+- Mine cart. 
+- Miner's helmet, has a lantern thing. 
+
 Alien - UFO
+- Maybe. 
+
 Engineer - Undecided
 Salesman - Crowd of people rushes you
 Army Man - Bazooka launch / Tank
 
 5. BOSSES--------------------------------------------------------------------------------------------------------------------------------------------------------------
+- See level descriptions. 
 
 LEVEL 1 - Backwoods Bob
 Backwoods Bob is chubby, with a full beard (not too long).
