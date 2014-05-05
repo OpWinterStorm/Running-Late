@@ -1,0 +1,77 @@
+GAME
+
+Contents: 
+1. Name
+2. Goal
+3. Gameplay
+  a. Controls
+  b. Story Mode
+  c. Free Run
+4. Characters
+5. Bosses
+
+1. NAME----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Late For Work
+Running Late
+Don't Be Late
+
+You can tell me any other ideas you have.
+
+2. GOAL----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The goal of the game is to run from your home to work, as fast as possible.  If you get hurt, your players briefcase may open, and you will lose papaers.  Once you have lost all of the papers, you will lose the briefcase.  You get bonus points if your briefcase is undamaged, or still have papers.  Once you get to work, you get a paycheck that you can use to buy upgrades.
+
+3. GAMEPLAY------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+a. Controls
+
+Arrow keys/WASD - Up, down, left, right *MAY HAVE NO L/R*
+Space Bar - Hurtle obstacle/Swing
+Left/Right Shift (Depending on controls) - Use powerup
+P - Pause menu
+M - Mute/Unmute music
+
+b. Story Mode
+
+LEVEL 1 - THE COUNTRY
+Your character is out in the country.  Farms are in the background.  You have the same job, just on a much smalled scale.  *YOU CAN SEE MORE ABOUT JOB SELECTION IN SECTION 5*  There are very few cars (might be tractors or pickup trucks), and very few fences to hurtle.  Once you've earned enough points, you fight your first boss.
+LEVEL 2 - SMALL CITY
+Your character is in a larger city, but still pretty small.  The background has houses here and there (more common that farmland), but still pretty seperated.  Your business is slightly bigger, and you get a better paycheck each morning.  Maybe being later/losing more files matters more.  There are more cars, mostly pickups.  Also more fences to hurtle, and some pedestrians.  *PEDESTRIANS DON'T GET IN YOUR WAY, JUST BLOCK THE VIEW*  Maybe some light poles to swing on.  You would eventually fight the second boss.
+LEVEL 3 - MEDIUM CITY
+Your character is in a fairly big city, but still not too big.  In the background, houses appear to be in a neighborhood style.  There are much more pedestrians, and fairly periodic cars.  There may be buses every once and a while.  You get a bigger paycheck.  There are now more poles to swing on.  You will eventually fight the third boss.
+LEVEL 4 - BIG CITY
+Your character is in a very big city now.  There are tons of cars and people, and way more telephone poles.  At least once a level there are traffic jams.  There are buses periodically.  You get a much bigger paycheck.  You eventually fight the fourth boss.
+LEVEL 5 - NEW YORK
+Your character is in New York.  The background is pretty much only apartment buildings and high rises.  The cars are almost always in a traffic jam.  There are subways and such that you can duck in to, etc.
+
+c. Free Run
+
+You just see how far you can run.  Maybe collect items or something, idk.  Still in developement.
+
+4. POWERUPS------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Each character has a specific special abiliity.  Here's what I have so far.
+
+Journalist - Camera car
+Construction Worker - bulldozer / Ride jackhammer
+Miner - Steam engine / Mine cart
+Alien - UFO
+Engineer - Undecided
+Salesman - Crowd of people rushes you
+Army Man - Bazooka launch / Tank
+
+5. BOSSES--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LEVEL 1 - Backwoods Bob
+Backwoods Bob is chubby, with a full beard (not too long).
+
+LEVEL 2 - Redneck Tom
+Redneck Tom is your standard hillbilly.  He has bluejean overalls and a corncob pipe.
+
+LEVEL 3 - Strict Sam
+Strict Sam is tall and skinny, and has a mustache.
+
+LEVEL 4 - Tyrant Trevor
+Tyrant Trevor his short, but has a temper to match.  His face is always red from yelling.  He likes to wear suit jackets
+
+LEVEL 5 - CEO
+CEO is a typical CEO - evil, caniving, backstabbing, manaiacal, etc.  He has a goutee, glasses, and some flamin' sick greased hair.
