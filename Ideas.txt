@@ -1,159 +1,243 @@
-GAME
+Running Late
+============
+Contents:
+1. Characters
+	a. List
+		i.   Physical Description
+		ii.  Boost
+		iii. Special Items
+2. Gameplay
+	a. Controls and other information
+	b. 'Story Mode'
+		i.  Objective
+		ii. Levels & Bosses for each character
+			1. List of levels
+				a. 5 'levels' per 'world', with the 5 level being a boss. 
+			2. Additional bosses (for fun, second playthrough or something).
+	c. Free run mode
+		i.  Objective
 
-Contents: 
-1. Name
-2. Goal
-3. Gameplay
-  a. Controls
-  b. Story Mode
-  c. Free Run
-4. Characters
-5. Bosses
+Characters
+----------
+1. Journalist
+	a. Physical Description: 
+		i. A guy in a black trench coat. Also has a fedora with a red band of cloth around it, 
+and a black brief-case, and blue jeans, and black shoes. Sleek black glasses and black hair. 
+	b. Boost:
+		i. A camera car picks him up and drives him for a little while. 
+2. Construction Worker:
+	a. Physical Description:
+		i. Wears an orange safety jacket, a plain white undershirt, safety glasses, orange 
+ear-protection, brown work gloves, blue jeans, and boots. Also has a tool belt and carries a tool box. 
+	b. Boost:
+		i. Uses a jackhammer to travel quickly. 
+3. Miner
+	a. Physical Description:
+		i. A rugged looking guy, with a beard, mining hat, boots, overalls, and a tan, 
+long-sleeve undershirt. Carries a pick-axe or lantern. 
+	b. Boost:
+		i. Rides around in a mine-cart. 
+4. Lawyer
+	a. Physical Description:
+		i. Black suit-jacket, comb-over, white undershirt with a blue tie, and black pants. 
 
-1. NAME----------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Late For Work
-- Running Late -- This one. 
-- Don't Be Late
+Carries a brief case. 
+	b. Boost:
+		i. Calls a cab. 
+5. Doctor
+	a. Physical Description:
+		i. Wears scrubs, has a stethoscope around his neck. 
+	b. Boost:
+		i. Rides in the back of an ambulance.
+6. Soldier
+	a. Has camo helmet, long-sleeve shirt and pants. Gun around neck, grenades on hip, sunglasses on 
 
-2. GOAL----------------------------------------------------------------------------------------------------------------------------------------------------------------
-The goal of the game is to run from your home to work, as fast as possible.  If you get hurt, your player's briefcase may open, and you will lose papaers.  Once you 
+face. 
+	b. Boost:
+		i. Helicopter comes in, picks him up and drops him off. 
 
-have lost all of the papers, you will lose the briefcase.  You get bonus points if your briefcase is undamaged, or still have papers.  Once you get to work, you get a 
+Gameplay
+--------
+1. Controls and other information:
+	a. w or up arrow: Character jumps. The longer the key is held, the longer the character jumps. 
+	b. a or left arrow: Character moves left (only to a certain amount). 
+	c. s or down arrow: Character slides. The longer the key is held, the longer the character 
 
-paycheck that you can use to buy upgrades.
+slides. 
+	d. d or right arrow: Character moves right (only to a certain amount).
+	e. Left Shift or Right Shift: Use boost. 
+	f. Key mapping can be changed in the main menu or pause menu. 
+	g. Characters have 'boosts' that move them forwards a certain amount in the level. 
+	h. Character also have unique 'Special Items' that can be unlocked. These items may be found 
+randomly throughout levels and provide whatever the benefits - positive or negative - the item gives you 
+for the remainder of the level. 
+	i. Boosts are earned by collecting a certain number of tokens.
+	j. Keys should also be able to: mute sound; pause game. 
+2. 'Story Mode':
+	a. Objective:
+	b. Levels and bosses for each character:
+		i. Journalist:
+			1. Farmland: Very early morning.  You live at a farm outside of the city, and 
+have missed your buss to work, and so you must run to work, and are running late. Farms are in the 
+background, along with cows and other animals. Pick-up trucks are the sole cars seen as you run along the 
+dimly-lit early morning highway. 
+				a. Cozy Cottage 
+					i. You see the bus pull aways as you wake up. In this level, you 
+must run out of your pleasant cottage in the mountains. Occassionally there will be a pick-up that drives 
+by that you mus avoid, limbs fallen on the road, and low-hanging limbs you can either jump over or duck 
+under. 
+				b. Delightful Drive 
+					i. More open land, you are now in a very rural area. It has a few 
+more cars, but you no longer need to worry about limbs- you must jump over pot holes and duck under the 
+occassional big-rig truck. It is still rather dark out. 
+				c. Lovely Lake
+					i. This around a lake. You again have to worry about limbs and 
+such, but not so much cars, as you have gone off the road to take a short-cut. There can also be boggy 
+ground, which can slow you down. 
+				d. Happy Highway
+					i. Back on the road again, but now it's a two-lane highway. Pot 
+holes and big-rigs are more frequent, and there are a couple more cars. 
+				e. Byram's Barn
+					i. You've decided to take another short-cut: through the back of 
+Old Man Byram's farm. He thinks you're a robber, here to steal his 'prized cluckers'. A chase ensues. He 
+is on his tractor, throwing bales of hay at you, as well as pigs, 'cluckers', and other assorted farm-
+related items. His aim is slightly off, and he doesn't throw much, though. Once you have gotten him out 
+of the screen you have 'escaped'. If he catches you, you must restart. 
+			2. Small Town: Sunrise
+				a. Peachy Prairie
+					i. You begin to enter more populated area by crossing through a 
+peach farm on the way from Old Man Byram's farm. Irrigation canals provide hazardous footing, while the 
+occassional tractor or harvesting machine is also dangerous. 
+				b. Tranquil Town
+					i. You leave the farm and come out in a quaint small town. Cars 
+are more frequent, but you don't need to worry about them when in raised areas with a sidewalk. Mail 
+boxes are also a problem, as are trash cans.
+				c. Rad Row
+					i. Similar to the last one, just more stores, and American flags 
+that can get in the way when you jump. 
+				d. Splendid Square
+					i. Lots of people, no cars, lots of trash cans and a fountain, 
+and bushes. 
+				e. Swell Station
+					i. After running through the city square so recklessly, you are 
+chased by the police for being a public nuisance. The head officer drives an old-style police car and 
+throws donuts and coffee at you. Can also send dogs after you. Same rules as with the following boss. 
+			3. Suburban Neighborhood: Morning
+				a. Little Lane
+					i. Bushes, lots of mail boxes and cars, and kids. 
+				b. Convivial Cul-de-Sac
+					i. Much like the last, with the occassional dog chasing after you 
+(sometimes with a person being dragged behind them). 
+				c. Cozy Corner
+					i. Group of kids running by can hurt you. 
+				d. Busy Bustles
+					i. Cyclists can now go by and hurt you. 
+				e. Fun Fields
+					i. You've cut off a soccer mom taking her kid's to practice. 
+Angry that you could have injured her prodigies, and angry you made her late, the only sensible thing to 
+do is by chasing after you. She sends her star athlete's after you, and they can kick balls and things at 
+you. 
+			4. Mid-City: Mid-day
+				a. Amicable Avenue
+					i. Road signs; mail boxes; speed bumps.
+				b. Pleasant Place
+					i. A relativelt busy area. When you cross an intersection, cars 
+can hit you.
+				c. Remarkable Road
+					i. Cyclists can run into you. 
+				d. Sanguine Street
+					i. Aspects of all previous areas, along with the parking meters. 
+				e. Lively Lane
+					i. You've knocked the coffee out of a hipster's hands before it 
+was cool, burning him. Enraged, he jumps up on his bicycle (used to reduce co2 emissions), and bikes 
+after you, hurling more coffee, as well as records and books. He can also use his stylish facial hair to 
+grab at you. 
+			5. Downtown: Afternoon
+				a. Amiable Alley
+					i. After being chased by the hipster you end up in an alley. 
+Grimy and disgusting. No cars, but there are trash bags, industrial-size trash cans, and plenty of people 
+to run into.
+				b. Perky Park
+					i. After making your way out of the stinking park, make your way 
+over to the park. You will have to cross the street twice, so be careful! You also must jump a fence to 
+get in. Once in, there will be lots of benches, trash cans and bushes, as well as people. 
+				c. Well-to-do Way
+					i. Now back on the road. There are lots of fancy cars, and lots 
+of people walking to work. Also trash cans and bus stops, as well as subways that you can go into. Hot 
+dog stands, too. 
+				d. White-Collar Corridor
+					i. You've made it into an office building, the office building 
+where you work. It has elevators, and when you get into an elevator, your direction reverses. 
+				e. Oppulent Office
+					i. You're trying to explain to your boss that you got there as 
+quickly as you could- 'NOT QUICKLY ENOUGH!!!' he shouts. Enraged, he chases you out the building and gets 
+into his limousine in pursuit of you. He can send lawyers after you, which will hit you once and make you 
+slow down. He can also shoot champagne at you. 
+			6. Additional Bosses:
+				a. Farmland:
+					i. Chicken Farmer- Throws eggs at you as well as chickens. 
+Chickens can fly after you. 
+					ii. Fruit & Vegetable Farmer- Throws tomatoes, pickles, carrots, 
+etc. at you. 
+					iii. Baseball Star- A pro baseball player. Throws baseballs at 
+you and gloves. 
+					iv. Crazy Cat Lady- Looks crazy. When she's not around her cat's, 
+she's getting another one. Throws cats and cat food at you. 
+					v. Junker- Collects trash and has a seemingly infinite supply of 
+junk to sell at yard sales. Throws trash at you. 
+				b. Small Town:
+					i. Marching Band- Entire marching band chases after you after you 
+interrupt their parade. 
+					ii. Excersise Enthusiast- Throws water bottles and energy bars at 
+you, as well as weights. (Maybe has dog chase you some)
+					iii. Teacher- Throws rulers and coffee mugs and apples at you. 
+					iv. Preacher- Throws Bibles and Crosses at you. 
+					v. Fireman- Drives a fire truck after you, and shoots water at 
 
-- The goal of the game is to run from your home to work (over the course of several levels and worlds). Each player has a briefcase or similar sort of item. If you hit 
+you. Also swings ladder at you if close enough. 
+				c. Suburban Neighborhood:
+					i. Ice Cream Man- Throws scoops of ice cream, cones, and 
 
-something over the course of the level, you drop this item. If you complete the level without dropping the briefcase, you get a bonus. You get points based on how 
+cherries. 
+					ii. Mail Man- Throws letters at you, as well as packages. 
+					iii. Yard Worker- Rides after you on riding lawn mower. Can also 
+bring out his weed-whacker if you're too close. Throws garbage bags and yard-waste (sticks, etc.) at you. 
+					iv. Milk Man- Throws milk at you. Can also throw cats at you 
+(since cats like milk).
+					v. Paper Boy- Throws newspapers at you, and can get friends to go 
+after you, too. 
+				d. Mid-City:
+					i. Florist- Throws flowers at you. Also watering buckets and 
+potted plants. 
+					ii. Pizza Delivery Man- Throws pizzas at you. 
+					iii. School Bus Driver- Sends little kids after you. Also throws 
+backpacks at you, and pencils, calculators, notebooks/binders, etc. 
+					iv. Road Worker- Drives after you in Bulldozer, and can throw 
+traffic cones and signs at you. If the cone/sign misses, it will stick up in front of you and you will 
+have to avoid it. 
+					v. Nature Activist- Throws protest signs at you, and sends 
+animals (eagles, squirrels, etc.) after you. 
+				e. Downtown:
+					i. Taxi Driver- Throws maps and exrta luggage at you. 
+					ii. Tourists- Throw maps and tour books at you, as well as 
+binoculars. 
+					iii. Hot Dog Cart Worker- Sprays ketchup and mustard at you, 
+throws hot dogs and buns at you too.
+					iv. Mob Boss- Sends goons after you, throws brief cases at you. 
+					v. City Bus Driver- Throws passengers at you. 
 
-quickly you do the level, and how many obstacles you hit. There will be coins throughout the level that you can collect, that you can spend towards "gadgets" (make it 
+		ii.  Construction Worker
+		iii. Miner
+		iv.  Lawyer
+		v.   Doctor
+		vi.  Soldier
+		vii. Bank Robber
 
-somewhat to do things, coin magnet, etc.), or towards new characters with different levels, powerups, etc. Levels bring you closer to the boss, not "payment".
-
-
-3. GAMEPLAY------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-a. Controls
-
-Arrow keys/WASD - Up, down, left, right *MAY HAVE NO L/R*
-- Compatible with W/S or Up/Down. W jumps, S slides. The longer you hold W, the longer you jump. The longer you hold D, the longer you slide. 
-
-Space Bar - Hurdle obstacle/Swing
-- Nothing. 
-
-Left/Right Shift (Depending on controls) - Use powerup
-- Sure.
-
-P - Pause menu
-- Pause or Escape
-
-M - Mute/Unmute music.
-- Can also be done in pause menu. 
-
-b. Story Mode
-
-LEVEL 1 - THE COUNTRY
-Your character is out in the country.  Farms are in the background.  You have the same job, just on a much smalled scale.  *YOU CAN SEE MORE ABOUT JOB SELECTION IN 
-
-SECTION 5*  There are very few cars (might be tractors or pickup trucks), and very few fences to hurtle.  Once you've earned enough points, you fight your first boss.
-- I think there should be a certain amount of levels per "world", then you face a "boss" (person in the area). You must pass this person down, then get the off the 
-
-screen (out of range) to beat them. 
-	- Boss for this area: Farmer Joe, or something. 
-		- Rides on a tractor and throws bails of hay at you.
-		- If you get close to him he'll stick out his pitchfork, which you need to jump over. 
-
-LEVEL 2 - SMALL CITY
-- More of a town, then. 
-
-Your character is in a larger city, but still pretty small.  The background has houses here and there (more common than farmland), but still pretty seperated.  Your 
-
-business is slightly bigger, and you get a better paycheck each morning.  Maybe being later/losing more files matters more.  There are more cars, mostly pickups.  Also 
-
-more fences to hurtle, and some pedestrians.  *PEDESTRIANS DON'T GET IN YOUR WAY, JUST BLOCK THE VIEW*  Maybe some light poles to swing on.  You would eventually fight 
-
-the second boss.
-- I don't really like the "leveling up" as an employee idea. I think it would be more fun just to try to run from the country to the city trying to get to work on 
-
-time. Less rural than the farm, i.e. little town houses and city courts, trees, but still not urban. 
-	- Boss: Sheriff. 
-		- Drives an old-style police car and has dogs go after you. 
-		- He also throws donuts and coffee at you, and has a gun, but it's bullets are very slow. 
-
-LEVEL 3 - MEDIUM CITY
-- Suburban Neighborhood. 
-
-Your character is in a fairly big city, but still not too big.  In the background, houses appear to be in a neighborhood style.  There are many more pedestrians, and 
-
-fairly periodic cars.  There may be buses every once and a while.  You get a bigger paycheck.  There are now more poles to swing on.  You will eventually fight the 
-
-third boss.
-- In a neighborhood. 3 different (or so) styles of houses, cars and kids are more common as well as cars. Still, I don't like the idea of paychecks.
-	- Boss: Soccer Mom.
-		- Drives a mini-van or SUV and sicks her freakishly in-shape kids at you. They will throw balls at you or something, but eventually run past you. 
-
-LEVEL 4 - BIG CITY
-- Urban Development. 
-
-Your character is in a very big city now.  There are tons of cars and people, and way more telephone poles.  At least once a level there are traffic jams.  There are 
-
-buses periodically.  You get a much bigger paycheck.  You eventually fight the fourth boss.
-- There are bikers now, which can run into you. I don't like the idea of traffic jams. Cars are very frequent, yes, and buses (you have to slide under those).
-	- Boss: Hipster.
-		- Rides a bicycle to reduce carbon emissions. Throws coffee, books, and records at you. 
-
-LEVEL 5 - NEW YORK
-- Downtown area. 
-
-Your character is in New York.  The background is pretty much only apartment buildings and high rises.  The cars are almost always in a traffic jam.  There are subways 
-
-and such that you can duck in to, etc.
-- Background is as you described, no subways (too complicated). 
-	- Boss: CEO.
-		- Rides in a limo., Sends lawyers after you. Laywer's will chase you for a little while, but aren't as fast as you. 
-		- Shoots champagne at you. 
-
-c. Free Run
-
-You just see how far you can run.  Maybe collect items or something, idk.  Still in developement.\
-- Sure. 
-
-4. POWERUPS------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Each character has a specific special abiliity.  Here's what I have so far.
-
-Journalist - Camera car
-- Has a trench coat, briefcase, etc. 
-
-Construction Worker - bulldozer / Ride jackhammer
-- Jackhammer. 
-- Wears an orange jacket, has a traffic sign. 
-
-Miner - Steam engine / Mine cart
-- Mine cart. 
-- Miner's helmet, has a lantern thing. 
-
-Alien - UFO
-- Maybe. 
-
-Engineer - Undecided
-Salesman - Crowd of people rushes you
-Army Man - Bazooka launch / Tank
-
-5. BOSSES--------------------------------------------------------------------------------------------------------------------------------------------------------------
-- See level descriptions. 
-
-LEVEL 1 - Backwoods Bob
-Backwoods Bob is chubby, with a full beard (not too long).
-
-LEVEL 2 - Redneck Tom
-Redneck Tom is your standard hillbilly.  He has bluejean overalls and a corncob pipe.
-
-LEVEL 3 - Strict Sam
-Strict Sam is tall and skinny, and has a mustache.
-
-LEVEL 4 - Tyrant Trevor
-Tyrant Trevor his short, but has a temper to match.  His face is always red from yelling.  He likes to wear suit jackets
-
-LEVEL 5 - CEO
-CEO is a typical CEO - evil, caniving, backstabbing, manaiacal, etc.  He has a goutee, glasses, and some flamin' sick greased hair.
+- Aspects:
+	- Speed Gain
+	- Speed Loss
+	- Invincibility Time
+	- Jump Time
+	- Number of Jumps
+	- Slide Time
+	- Longer Boost
