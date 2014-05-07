@@ -66,9 +66,10 @@ Gameplay
 slides. 
 	d. d or right arrow: Character moves right (only to a certain amount).
 	e. Left Shift or Right Shift: Use boost. 
-	f. Key mapping can be changed in the main menu or pause menu. 
-	g. Characters have 'boosts' that move them forwards a certain amount in the level. 
-	h. Character also have unique 'Special Items' that can be unlocked. These items may be found 
+	f. X: Go down subways (if subways implemented)
+	g. Key mapping can be changed in the main menu or pause menu. 
+	h. Characters have 'boosts' that move them forwards a certain amount in the level. 
+	i. Character also have unique 'Special Items' that can be unlocked. These items may be found 
 randomly throughout levels and provide whatever the benefits - positive or negative - the item gives you 
 for the remainder of the level. 
 	i. Boosts are earned by collecting a certain number of tokens.
